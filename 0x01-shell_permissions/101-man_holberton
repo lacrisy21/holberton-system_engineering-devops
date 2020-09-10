@@ -1,24 +1,24 @@
 .TH man 2 "10 Sept 2020" "0.32" "Margarita man page"
 
 .SH NAME
- Margarita \- Poops, cry, laugh, ask for teta or babble at user
+Margarita \- Poops, cry, laugh, ask for teta or babble at user
 
 .SH SYNOPSIS
- Margarita [USERNAME]
+Margarita [USERNAME]
 
 .SH DESCRIPTION
- Margarita is a baby who reacts at you, based on what she thinks about you.
+Margarita is a baby who reacts at you, based on what she thinks about you.
 
 .SH OPTIONS
- Margarita does not take any options. However, you can supply username.
+Margarita does not take any options. However, you can supply username.
 
 .SH SEE ALSO
- MommyisTired(4), Babyshark(8), Adorable(2) 
+MommyisTired(4), Babyshark(8), Adorable(2) 
 
 .SH BUGS
- No known bugs.
+No known bugs.
 
 .SH AUTHOR
- Mommys tummy and Daddy's enthusiasm
+Mommys tummy and Daddy's enthusiasm
 
 0.32 10 sept 2020 man(2)
