@@ -1,22 +1,17 @@
-.TH 2 MARGARITA Man Page
-
+.TH man 2 "04 May 2015" "0.32" "Margarita man page"
 .SH NAME
-.B Margarita - Poops, cry, laugh, ask for teta or babble at user
-
+.B Margarita
+- cutest baby ever
 .SH SYNOPSIS
 Margarita [USERNAME]
-
 .SH DESCRIPTION
-Margarita is a baby who reacts at you, based on what she thinks about you.
-
+Poops, cry, laugh, ask for teta or babble at user
 .SH OPTIONS
-.B Margarita 
-
+.B Margarita
+does not take any options. However, you can supply USERNAME
 .SH SEE ALSO
-MommyisTired(4), Babyshark(8), Adorable(2) 
-
+.I cocomelon(2), babyshark(2), bartolito(2)
 .SH BUGS
 No known bugs.
-
 .SH AUTHOR
-Mommys tummy and Daddy's enthusiasm
+Mommy's Tummy
