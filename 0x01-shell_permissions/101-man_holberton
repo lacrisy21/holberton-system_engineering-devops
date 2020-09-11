@@ -1,7 +1,7 @@
 .TH 2 MARGARITA Man Page
 
 .SH NAME
-.b Margarita \- Poops, cry, laugh, ask for teta or babble at user
+.B Margarita - Poops, cry, laugh, ask for teta or babble at user
 
 .SH SYNOPSIS
 Margarita [USERNAME]
@@ -10,7 +10,7 @@ Margarita [USERNAME]
 Margarita is a baby who reacts at you, based on what she thinks about you.
 
 .SH OPTIONS
-Margarita does not take any options. However, you can supply username.
+.B Margarita 
 
 .SH SEE ALSO
 MommyisTired(4), Babyshark(8), Adorable(2) 
